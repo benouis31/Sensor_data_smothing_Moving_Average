@@ -7,6 +7,5 @@ Analyzes sensor data with moving average smoothing
   - 30-minute window  
   - 6-hour window  
   - 12-hour window  
-- Google-style visualization  
 - Side-by-side comparison of original vs smoothed signals  
 - Statistical comparison tables  
